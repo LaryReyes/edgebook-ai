@@ -1,0 +1,15 @@
+# Never upload: your trades, screenshots, keys and settings live here
+data/
+*.db
+*.db-shm
+*.db-wal
+omniroute_key.txt
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Private working notes (stay on this PC)
+CLAUDE.md
+CONTEXT.md
