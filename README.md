@@ -1,6 +1,6 @@
 # Edgebook AI — local MT5 trading journal
 
-Made by [Lary Reyes](https://github.com/reyeslary1691-bit). MIT License (see `LICENSE`).
+Made by [Lary Reyes](https://github.com/LaryReyes). MIT License (see `LICENSE`).
 
 A self-hosted trading journal that runs on your own PC and pulls trades straight
 from your MetaTrader 5 terminal. Everything stays on your machine in
@@ -80,7 +80,7 @@ python app.py            # --port 5050  --demo  --no-browser
 
 ## Credits
 
-- Built by [Lary Reyes](https://github.com/reyeslary1691-bit).
+- Built by [Lary Reyes](https://github.com/LaryReyes).
 - The Lary Reyes logo (`static/lary-reyes-logo.png`) is a personal mark. It is **not** covered by the MIT license: do not reuse it outside this project; replace it in your own copies.
 - Candle charts: [TradingView Lightweight Charts™](https://www.tradingview.com/lightweight-charts/)
   (Apache 2.0), © TradingView, Inc.
